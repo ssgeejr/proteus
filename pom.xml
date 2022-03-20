@@ -4,7 +4,7 @@
 
 	<groupId>gee-5</groupId>
 	<artifactId>ShellRaptor</artifactId>
-	<version>5.2.2-SNAPSHOT</version>
+	<version>5.2.2</version>
 	<packaging>jar</packaging>
 	<url>https://github.com/ssgeejr/shellraptor</url>
 	<name>ShellRaptor</name>
